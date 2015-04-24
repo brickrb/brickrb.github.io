@@ -6,5 +6,4 @@ The code that powers Brick's v0 static website.
 
 ```
 git clone https://brickrb/brickrb.github.io
-bower install
 ```
